@@ -23,5 +23,5 @@ Works with any `T: Ord`.
 
 # Explore
 - tests  - > [tests](/tests/trend_test.rs)
-- documentation -> [docs](https://docs.rs/trends/0.1.0/trends/)
-- source -> [src](https://docs.rs/crate/trends/0.1.0/source/)
+- documentation -> [docs](https://docs.rs/trends/0.1.1/trends/)
+- source -> [src](https://docs.rs/crate/trends/0.1.1/source/)
