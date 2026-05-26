@@ -8,5 +8,6 @@ keywords = ["trend", "comparison", "ordering", "utility", "ord"]
 categories = ["algorithms", "rust-patterns"]
 description = "Simple trend detection for ordered values"
 license = "MIT"
+repository="https://github.com/oOp995/trends"
 
 [dependencies]
