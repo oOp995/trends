@@ -4,5 +4,9 @@ version = "0.1.0"
 edition = "2024"
 readme="README.md"
 authors=["oOp","Ossama.abboud95@gmail.com"]
+keywords = ["trend", "comparison", "ordering", "utility", "ord"]
+categories = ["algorithms", "rust-patterns"]
+description = "Simple trend detection for ordered values"
+license = "MIT"
 
 [dependencies]
