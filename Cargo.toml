@@ -11,3 +11,4 @@ license = "MIT"
 repository="https://github.com/oOp995/trends"
 
 [dependencies]
+returns = "0.1"
