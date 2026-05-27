@@ -10,7 +10,7 @@ checksum = "a4f88410a79419a7e86f88247bfb67ba4af4ebb9dbe8452b61e32a67129e884a"
 
 [[package]]
 name = "trends"
-version = "0.1.1"
+version = "0.1.2"
 dependencies = [
  "returns",
 ]
